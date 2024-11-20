@@ -1,33 +1,21 @@
-# AdvancedSoftwareDevelopment
- Advanced python course that presents -
+## Course Final Project
 
-Operating systems,
-  Process -, Storage -, Memory management
-Processes,
-  Process scheduling
-Threads,
-  Multithreading
-PCU scheduling
-  Scheduling criteria
-Process synchronization
-  Semaphors,
-  Monitors,
-  Mutex locks
-Main memory
-  Segmentation
+**Watch the final project presentation with the highest score:**  
+[![Course Project Video](https://img.youtube.com/vi/r5gHJlR2av4/0.jpg)](https://www.youtube.com/watch?v=r5gHJlR2av4)
 
+---
 
-Video of course final project with max score - https://www.youtube.com/watch?v=r5gHJlR2av4
-
+### Project Breakdown
 I will go through the tasks in two parts.
 
-1. task instruction + application presentation in order of tasks
-2. code in full 
+1. **Task Instructions and application presentation in order of tasks**
+2. **Code in Full**
 
-In the video you can see the tasks visually in sections:
-5p - 01:14
-10p - 02:43
-15p - 04:40
-20p - 06:18
+   - In the video you can see the tasks visually in sections:
+     - **5 Points** - [01:14]
+     - **10 Points** - [02:43]
+     - **15 Points** - [04:40]
+     - **20 Points** - [06:18]
 
-All voice functions activated - running the app - 10:11
+   - All voice functions activated and the application running - [10:11]
+
