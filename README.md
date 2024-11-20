@@ -19,3 +19,20 @@ I will go through the tasks in two parts.
 
    - All voice functions activated and the application running - [10:11]
 
+
+Advanced python course that presents -
+
+Operating systems,
+  Process -, Storage -, Memory management
+Processes,
+  Process scheduling
+Threads,
+  Multithreading
+PCU scheduling
+  Scheduling criteria
+Process synchronization
+  Semaphors,
+  Monitors,
+  Mutex locks
+Main memory
+  Segmentation
