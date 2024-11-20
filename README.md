@@ -1,3 +1,27 @@
+# AdvancedSoftwareDevelopment
+
+## Course Overview
+Advanced Python course covering key topics in operating systems and process management:
+
+- **Operating Systems**
+  - Process Management
+  - Storage Management
+  - Memory Management
+- **Processes**
+  - Process Scheduling
+- **Threads**
+  - Multithreading
+- **PCU Scheduling**
+  - Scheduling Criteria
+- **Process Synchronization**
+  - Semaphores
+  - Monitors
+  - Mutex Locks
+- **Main Memory**
+  - Segmentation
+
+---
+
 ## Course Final Project
 
 **Watch the final project presentation with the highest score:**  
@@ -18,21 +42,3 @@ I will go through the tasks in two parts.
      - **20 Points** - [06:18]
 
    - All voice functions activated and the application running - [10:11]
-
-
-Advanced python course that presents -
-
-Operating systems,
-  Process -, Storage -, Memory management
-Processes,
-  Process scheduling
-Threads,
-  Multithreading
-PCU scheduling
-  Scheduling criteria
-Process synchronization
-  Semaphors,
-  Monitors,
-  Mutex locks
-Main memory
-  Segmentation
