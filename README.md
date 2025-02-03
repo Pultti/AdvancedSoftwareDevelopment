@@ -25,7 +25,7 @@ Advanced Python course covering key topics in operating systems and process mana
 ## Course Final Project
 
 **Watch the final project presentation with the highest score:**  
-[Watch the video on YouTube](https://www.youtube.com/watch?v=r5gHJlR2av4)
+(https://www.youtube.com/watch?v=r5gHJlR2av4)
 
 ---
 
